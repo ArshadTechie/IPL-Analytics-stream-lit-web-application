@@ -4,8 +4,6 @@ import streamlit as st
 from streamlit import *
 import pandas as pd
 import numpy as np
-from plotly.subplots import make_subplots
-import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 from PIL import Image
 #Title of the project
